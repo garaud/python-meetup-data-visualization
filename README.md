@@ -4,7 +4,7 @@ Meetup donné à **Bordeaux**. Introduction à la visualisation de données en P
 
 Voir l'événement du 1er mars 2018 sur [meetup py-bdx](https://www.meetup.com/py-bdx/events/247587158/).
 
-![image](./meetup-picturs.png)
+![image](./meetup-picture.png)
 
 
 ## Résumé
