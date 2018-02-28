@@ -1,0 +1,37 @@
+* Python Meetup
+
+  *#8*
+
+  + Visualisation de données
+    _Damien_
+
+* About you
+
+  + Damien Garaud [[https://twitter.com/jazzydag][@jazzydag]]
+     https://github.com/garaud
+
+  + Programmer & Data Scientist
+
+  + Oslandia:
+    Data, PostgreSQL, SIG,
+    Open Source, Machine Learning
+
+* Pad et présentations
+
++ Pad collaboratif
+  - https://annuel.framapad.org/p/py-bdx
+  - précédents meetups
+  - what's up
+
++ Toujours à la recherche
+  d'orateurs / oratrices
+
+* Réflexion pour plus tard
+
++ Toujours des présentations longues
+  avec une-deux courtes
+
++ Que des présentations courtes
+
++ Des ateliers / workshop
+  "Ramène ta data"
